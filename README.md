@@ -1,5 +1,6 @@
 # ThinkOnWard_Building-Instinct
 4th place to competition "Building Instinct" hosted by ThinkOnWard.
+Winner of the 1000$ Honorable Mention for Feature Engineering and Excellent Documentation.
 
 # Solution Guidelines
 
